@@ -1,7 +1,7 @@
 import Foundation
 
 @main
-public struct swift_weather_client {
+public struct WeatherClient {
     public private(set) var text = "Hello, World!"
 
     public static func main() async {

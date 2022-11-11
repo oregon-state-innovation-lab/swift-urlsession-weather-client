@@ -6,6 +6,6 @@ final class swift_weather_clientTests: XCTestCase {
         // This is an example of a functional test case.
         // Use XCTAssert and related functions to verify your tests produce the correct
         // results.
-        XCTAssertEqual(swift_weather_client().text, "Hello, World!")
+        XCTAssertEqual(WeatherClient().text, "Hello, World!")
     }
 }
